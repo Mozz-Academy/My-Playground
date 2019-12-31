@@ -1,3 +1,5 @@
+#This is a super easy tkinter script because I'm a complete beginner
+
 import tkinter
 from tkinter import *
 import random
